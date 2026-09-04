@@ -151,4 +151,6 @@ If you find this work useful, please cite:
 
 ## Acknowledgements
 
+This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (RS-2024-00419201).
+
 Our implementation builds on [LightGCN](https://github.com/gusye1234/LightGCN-PyTorch), [IMRec](https://github.com/enoche/ImRec) and [SELFRec](https://github.com/Coder-Yu/SELFRec).
